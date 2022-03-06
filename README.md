@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Take a look to [my resume](https://registry.jsonresume.org/martinbmnt) !
+
 <!--
 **martinbmnt/martinbmnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
