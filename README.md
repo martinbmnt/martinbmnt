@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Take a look to [my resume](https://registry.jsonresume.org/martinbmnt) !
+Take a look to [my portfolio](https://www.martinbeaumont.dev/) !
 
 <!--
 **martinbmnt/martinbmnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
